@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh971&label=Profile%20views&color=0e75b6&style=flat" alt="harsh971" /> </p>
 <h3>
-- 🔭 I’m currently working on my Competitive Programming Skills**
 
-- 🌱 I’m currently learning **Full Stack Web Development**
+
+- 🌱 I’m currently learning Full Stack Web Development
 
 - 👨‍💻 You can Connect me through [https://harshthakkar.mystrikingly.com/](https://harshthakkar.mystrikingly.com/)
 

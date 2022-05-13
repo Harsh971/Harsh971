@@ -6,15 +6,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh971&label=Profile%20views&color=0e75b6&style=flat" alt="harsh971" /> </p>
 <h3>
-- 🔭 I’m currently working on **my Competitive Programming Skills**
+- 🔭 I’m currently working on my Competitive Programming Skills**
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
 - 👨‍💻 You can Connect me through [https://harshthakkar.mystrikingly.com/](https://harshthakkar.mystrikingly.com/)
 
-- 💬 Ask me about **BlockChain, NFT, Android, PHP...**
+- 💬 Ask me about BlockChain, NFT, Android, PHP...
 
-- 📫 How to reach me **harsh.thakkar0369@gmail.com**
+- 📫 How to reach me harsh.thakkar0369@gmail.com
 </h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

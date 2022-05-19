@@ -1,4 +1,4 @@
-<img src="https://github.com/Harsh971/Harsh971/blob/main/HarshThakkar.png" width="2000" height="300">
+<img src="https://github.com/Harsh971/Harsh971/blob/main/HarshThakkar.png" width="100%" height=auto>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px">, I'm Harsh Thakkar</h1>
 <h3 align="center">A Passionate Developer from India</h3><hr>
 

@@ -1,13 +1,9 @@
-<img src="https://github.com/Harsh971/Harsh971/blob/main/HarshThakkar.png" width="100%" height=auto>
+<img src="https://github.com/Harsh971/Harsh971/blob/main/HarshThakkar.png" width="100%" height="100%">
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px">, I'm Harsh Thakkar</h1>
 <h3 align="center">A Passionate Developer from India</h3><hr>
-
-
-
-
-<img align="right" alt="Coding" width ="300" src="https://qitech.in/wp-content/uploads/2021/04/gif.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh971&label=Profile%20views&color=0e75b6&style=flat" alt="harsh971" /> </p>
+<table>
+	<tr>
+		<td><p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh971&label=Profile%20views&color=0e75b6&style=flat" alt="harsh971" /> </p>
 <h3>
 
 
@@ -19,6 +15,13 @@
 
 - 📫 How to reach me harsh.thakkar0369@gmail.com
 </h3>
+</td>
+		<td><img alt="Coding" width ="300" src="https://qitech.in/wp-content/uploads/2021/04/gif.gif"></td></tr>
+</table>
+
+
+<div align="right"></div>
+
 
 ## <img src="https://c.tenor.com/bH5qXUAuk4kAAAAM/fire.gif" alt="harshthakkar971" width="40" /> Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh971" alt="7oSkaaa" /></p>

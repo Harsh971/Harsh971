@@ -142,10 +142,11 @@
   </p>
   
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
+  <br/></center>
+	<!--
    <a href="https://github.com/Harsh971"><img alt="Harsh Thakkar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Harsh971&custom_title=Harsh971's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
-</center>
-<!--
+
+
 <img align="center" alt="GIF" src="https://raw.githubusercontent.com/brijrajparmar27/brijrajparmar27/d175559d40c3aaa0cbbbe8e6df5ebc33b577a461/assets/footer.svg" width="100%" height=auto />
 -->

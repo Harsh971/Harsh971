@@ -140,10 +140,11 @@
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Harsh971&langs_count=10&show_icons=true&locale=en&layout=compact" alt="Harsh971" height="192px"/>
   <br/>
   </p>
-  
+	</center>
+  <!--
   <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/></center>
-	<!--
+  <br/>
+	
    <a href="https://github.com/Harsh971"><img alt="Harsh Thakkar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Harsh971&custom_title=Harsh971's%20Contribution%20Graph&theme=react-dark" /></a>
   <br/>
 

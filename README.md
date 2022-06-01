@@ -1,5 +1,5 @@
 <img src="https://github.com/Harsh971/Harsh971/blob/main/HarshThakkar.png" width="100%" height="100%">
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="40px">, I'm Harsh Thakkar</h1>
+<h1 align="center">Hi , I'm Harsh Thakkar</h1>
 <h3 align="center">A Passionate Developer from India</h3><hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh971&label=Profile%20views&color=0e75b6&style=flat" alt="harsh971" /> </p>

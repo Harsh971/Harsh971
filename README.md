@@ -45,7 +45,7 @@
   <a href="https://www.leetcode.com/harshthakkar36"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshthakkar36" height="50" width="50" /></a>
 </p>
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px"> Connect with me
+## <img src="https://t3.ftcdn.net/jpg/03/55/16/48/360_F_355164871_fQLc5jgqvYaqKbrlM20WQ09r1xqune1J.jpg" alt="harshthakkar971" width="40" /> Connect with Me
 <p align="center">
 	<a href="https://twitter.com/harshthakkar971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshthakkar971" height="50" width="50" /></a>
   &nbsp;&nbsp;

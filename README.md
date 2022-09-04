@@ -41,7 +41,6 @@
 
 <p align="center">
   <a href="https://www.hackerrank.com/harshthakkar09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshthakkar09" height="50" width="50" /></a>
-  <a href="https://www.codechef.com/users/harshthakkar36"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="harshthakkar36" height="50" width="50" /></a>
   <a href="https://www.leetcode.com/harshthakkar36"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshthakkar36" height="50" width="50" /></a>
 </p>
 

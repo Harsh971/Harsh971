@@ -1,25 +1,7 @@
-<img src="https://github.com/Harsh971/Harsh971/blob/main/HarshThakkar.png" width="100%" height="100%">
-<h1 align="center">Hi , I'm Harsh Thakkar</h1>
-<h3 align="center">A Passionate Developer from India</h3><hr>
+<img src="https://github.com/Harsh971/Harsh971/blob/main/Banner.png" width="100%" height="100%">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1&duration=1000&pause=500&width=435&lines=A+MERN+Stack+Developer;A+DSA+Freek;+A+Blockchain+Enthusiast" alt="Typing SVG" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh971&label=Profile%20views&color=0e75b6&style=flat" alt="harsh971" /> </p>
-<h3>
-
-
-- 🌱 I’m currently learning Full Stack Web Development
-
-- 👨‍💻 You can Connect me through [https://harshthakkar.mystrikingly.com/](https://harshthakkar.mystrikingly.com/)
-
-- 💬 Ask me about BlockChain, NFT, Android, PHP...
-
-- 📫 How to reach me harsh.thakkar0369@gmail.com
-</h3>
-
-		
-
-
-
-
 
 ## <img src="https://c.tenor.com/bH5qXUAuk4kAAAAM/fire.gif" alt="harshthakkar971" width="40" /> Streak Stats
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh971" alt="7oSkaaa" /></p>
@@ -37,27 +19,32 @@
 
 <br>
 
-## <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/449d4a32693639.568f9cb659dd3.gif" alt="harshthakkar971" width="40" /> My Competitive Programming Profiles
-
+## <img src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" alt="harshthakkar971" width="40" /> Connect with Me
 <p align="center">
-  <a href="https://www.hackerrank.com/harshthakkar09"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="harshthakkar09" height="50" width="50" /></a>
-  <a href="https://www.leetcode.com/harshthakkar36"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="harshthakkar36" height="50" width="50" /></a>
+	
+<a href="https://twitter.com/HarshThakkar971" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" alt="@HarshThakkar971" height="50" width="50" /></a>
+<a href="https://www.linkedin.com/in/harsh-thakkar-7764bb1a4/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="@harshthakkar0369" height="50" width="50" /></a>
+<a href="https://hashnode.com/@HarshThakkar" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-925E2EDA94-seeklogo.com.png?v=637949535740000000" alt="@harshthakkar0369" height="50" width="45" /></a>
+
 </p>
 
-## <img src="https://t3.ftcdn.net/jpg/03/55/16/48/360_F_355164871_fQLc5jgqvYaqKbrlM20WQ09r1xqune1J.jpg" alt="harshthakkar971" width="40" /> Connect with Me
-<p align="center">
-	<a href="https://twitter.com/harshthakkar971" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="harshthakkar971" height="50" width="50" /></a>
-  &nbsp;&nbsp;
-<a href="https://linkedin.com/in/harsh-thakkar-7764bb1a4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harsh-thakkar-7764bb1a4" height="50" width="50" /></a>
-  &nbsp;&nbsp;
-<a href="https://fb.com/harsh.thakkar.731572" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harsh.thakkar.731572" height="50" width="50" /></a>
-  &nbsp;&nbsp;
-<a href="https://instagram.com/harsh_thakkar09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harsh_thakkar09" height="50" width="50" /></a>
-  &nbsp;&nbsp;
-<a href="https://hashnode.com/@HarshThakkar0369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@harshthakkar0369" height="50" width="50" /></a>
-</p>
+## <img src="https://cdn-icons-png.flaticon.com/128/3437/3437297.png" width="40px"> Tech Stack
+<a><img align="center" src="https://cdn-icons-png.flaticon.com/128/3097/3097008.png" alt="C Language" height="50" width="50" /></a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/8263/8263095.png" alt="CPP Language" height="50" width="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="Java" height="50" width="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" height="50" width="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" height="50" width="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504881.png" alt="Android" height="50" width="50" />
 
-## <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPbz7jVghn3yP1CrZNz2-9-Re1gpYwyc6K8Q&usqp=CAU" width="40px"> My Skills
+<a><img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML5" height="50" width="50" /></a>
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS3" height="50" width="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="Js" height="50" width="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="NodeJs" height="50" width="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/919/919851.png" alt="ReactJs" height="50" width="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" height="50" width="50" />
+
+
+
 
 ### 👉 Programming languages
 

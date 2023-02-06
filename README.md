@@ -53,3 +53,7 @@
 <a href="https://hashnode.com/@HarshThakkar" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-925E2EDA94-seeklogo.com.png?v=637949535740000000" alt="@harshthakkar0369" height="50" width="45" /></a>
 
 </p>
+<h3 align="left">Support:</h3>
+
+<p><a href="https://www.buymeacoffee.com/harshthakkar971"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="harshthakkar971" /></a></p>
+

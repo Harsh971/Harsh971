@@ -1,5 +1,7 @@
-<img src="https://github.com/Harsh971/Harsh971/blob/main/Banner.gif" width="100%" height="100%">
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1&duration=1000&pause=500&width=435&lines=A+MERN+Stack+Developer;A+DSA+Freek;+A+Blockchain+Enthusiast" alt="Typing SVG" /></a>
+<a href='https://www.linkpicture.com/view.php?img=LPic63e4b9a9dc7de1137878782'><img src='https://www.linkpicture.com/q/Banner-1_2.png' type='image'></a>
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
+<center><a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1&duration=1000&pause=500&width=435&lines=A+MERN+Stack+Developer;A+DSA+Freek;+A+Blockchain+Enthusiast" alt="Typing SVG" /></a></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh971&label=Profile%20views&color=0e75b6&style=flat" alt="harsh971" /> </p>
 

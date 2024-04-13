@@ -1,7 +1,7 @@
-<a href='https://www.linkpicture.com/view.php?img=LPic63e4b9a9dc7de1137878782'><img src='https://www.linkpicture.com/q/Banner-1_2.png' type='image'></a>
+<a href='https://www.linkpicture.com/view.php?img=LPic63e4b9a9dc7de1137878782'><img src='https://github.com/Harsh971/Portfolio/blob/main/images/Harsh-Banner.jpeg' type='image' width="100%" height="100%"></a>
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 <center><a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1&duration=1000&pause=500&width=435&lines=A+MERN+Stack+Developer;A+DSA+Freek;+A+Blockchain+Enthusiast" alt="Typing SVG" /></a></center>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1&duration=1000&pause=500&width=435&lines=A+Tech+enthusiast;An+Explorer;+A+Learner" alt="Typing SVG" /></a></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh971&label=Profile%20views&color=0e75b6&style=flat" alt="harsh971" /> </p>
 
@@ -10,31 +10,24 @@
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/8263/8263095.png" alt="CPP Language" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968282.png" alt="Java" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968350.png" alt="Python" height="50" width="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/6124/6124995.png" alt="Linux" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968332.png" alt="PHP" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/2504/2504881.png" alt="Android" height="50" width="50" />
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/6132/6132219.png" alt="Ruby" height="50" width="50" />
-<img align="center" src="https://cdn-icons-png.flaticon.com/512/5968/5968358.png" alt="Sass" height="50" width="50" />
-<img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQovW20CyVTwnSbw_yPve4LCs7c9CjeBW_UIqG3O_g6RcRZCnKLnvxyxQRBl1wwmZeNOwM&usqp=CAU" alt="TailwindCSS" height="50" width="50" />
 <img align="center" src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="FireBase" height="50" width="50" />
-<img align="center" src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="PostMan" height="50" width="50" />
 <img align="center" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/174/174854.png" alt="HTML5" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/732/732190.png" alt="CSS3" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968292.png" alt="Js" height="50" width="50" />
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/919/919825.png" alt="NodeJs" height="50" width="50" />
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/919/919851.png" alt="ReactJs" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968672.png" alt="Bootstrap" height="50" width="50" />
-<img align="center" src="https://toppng.com/uploads/preview/9kib-354x415-unnamed-mongodb-logo-sv-11562860723mgempnmrq3.png" alt="MongoDB" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" alt="MySQL" height="50" width="50" />
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/5969/5969170.png" alt="Oracle" height="50" width="50" />
 <img align="center" src="https://static-00.iconduck.com/assets.00/aws-icon-512x512-hniukvcn.png" alt="AWS" height="50" width="50" />
-<img align="center" src="https://cdn-icons-png.flaticon.com/128/873/873107.png" alt="Azure" height="50" width="50" />
-<img align="center" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="GCloud" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/4494/4494748.png" alt="Git" height="50" width="50" />
+<img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968853.png" alt="Gitlab" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/5436/5436972.png" alt="Photoshop" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968428.png" alt="AfterEffect" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/5968/5968514.png" alt="Lightroom" height="50" width="50" />
-
+<!--<img align="center" src="https://cdn-icons-png.flaticon.com/128/873/873107.png" alt="Azure" height="50" width="50" />
+<img align="center" src="https://logos-world.net/wp-content/uploads/2021/02/Google-Cloud-Emblem.png" alt="GCloud" height="50" width="50" />-->
 </a>
 
 

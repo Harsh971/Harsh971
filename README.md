@@ -1,4 +1,5 @@
-<a href='https://www.linkpicture.com/view.php?img=LPic63e4b9a9dc7de1137878782'><img src='https://github.com/Harsh971/Portfolio/blob/main/images/Harsh-Banner.jpeg' type='image' width="100%" height="100%"></a>
+<a href='https://drive.google.com/file/d/10iFMMRv2AYfKsPsQFhmW0Rb_dMRj7oe8/view?usp=sharing'><img src='https://github.com/Harsh971/Images/blob/main/Harsh-Banner.jpeg' type='image' width="100%" height="100%"></a>
+
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> 
 <center><a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1&duration=1000&pause=500&width=435&lines=A+Tech+enthusiast;An+Explorer;+A+Learner" alt="Typing SVG" /></a></center>
@@ -50,7 +51,7 @@
 	
 <a href="https://twitter.com/HarshThakkar971" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" alt="@HarshThakkar971" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/harsh-thakkar-7764bb1a4/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="@harshthakkar0369" height="50" width="50" /></a>
-<a href="https://hashnode.com/@HarshThakkar" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-925E2EDA94-seeklogo.com.png?v=637949535740000000" alt="@harshthakkar0369" height="50" width="45" /></a>
+<a href="https://hashnode.com/@HarshThakkar" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-925E2EDA94-seeklogo.com.png?v=637949535740000000" alt="HashNode" height="50" width="45" /></a>
 
 </p>
 <h3 align="left">Support:</h3>

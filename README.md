@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=1&duration=1000&pause=500&width=435&lines=A+Tech+enthusiast;An+Explorer;+A+Learner" alt="Typing SVG" /></a></center>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh971&label=Profile%20views&color=0e75b6&style=flat" alt="harsh971" /> </p>
-
+<!--
 ## <img src="https://cdn-icons-png.flaticon.com/128/2582/2582094.png" width="40px"> Tech Stack
 <a><img align="center" src="https://cdn-icons-png.flaticon.com/128/3097/3097008.png" alt="C Language" height="50" width="50" />
 <img align="center" src="https://cdn-icons-png.flaticon.com/128/8263/8263095.png" alt="CPP Language" height="50" width="50" />
@@ -51,7 +51,7 @@
 	
 <a href="https://twitter.com/HarshThakkar971" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3256/3256013.png" alt="@HarshThakkar971" height="50" width="50" /></a>
 <a href="https://www.linkedin.com/in/harsh-thakkar-7764bb1a4/" target="blank"><img align="center" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" alt="@harshthakkar0369" height="50" width="50" /></a>
-<a href="https://hashnode.com/@HarshThakkar" target="blank"><img align="center" src="https://seeklogo.com/images/H/hashnode-logo-925E2EDA94-seeklogo.com.png?v=637949535740000000" alt="HashNode" height="50" width="45" /></a>
+
 
 </p>
 <h3 align="left">Support:</h3>
